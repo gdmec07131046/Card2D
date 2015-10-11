@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Card2D</string>
+
+    <string name="titile">翻转动画</string>
+    <string name="photo1">图片1</string>
+    <string name="photo2">图片2</string>
+    <string name="action_settings">Settings</string>
+</resources>
